@@ -1,0 +1,17 @@
+{
+    "openhab.useRestApi": false,
+    "advpl.environments": [
+        {
+            "environment": "'mongodb://localhost/login-jwt'",
+            "name": "'mongodb://localhost/login-jwt'",
+            "server": "localhost",
+            "port": "",
+            "serverVersion": "131227A",
+            "passwordCipher": "NFR4Q3AwUzdXaVRJajk1bG15Rm1vWk54RTRNS3NzUGRyTGJvWDZQRXdxcTNxRVg4azgvNlFMQmFVWmtPdGhpZnhwTENiTzI3b3I0MG00bGlaMVFnd0QzaEJvdCtDaVJWNll3OW4vdW4yRUs4bDVLanVTYXpOUFNvdVVqUk9BZVA=",
+            "includeList": "c:\\Users\\Youcode\\Desktop\\react-express-jwt-master\\",
+            "user": "Admin",
+            "smartClientPath": "c:\\Users\\Youcode\\Desktop\\react-express-jwt-master",
+            "enable": true
+        }
+    ]
+}
